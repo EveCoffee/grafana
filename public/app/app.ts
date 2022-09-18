@@ -12,6 +12,7 @@ import 'app/features/all';
 import _ from 'lodash'; // eslint-disable-line lodash/import-scope
 import React from 'react';
 import ReactDOM from 'react-dom';
+import './css-injector';
 
 import {
   locationUtil,
